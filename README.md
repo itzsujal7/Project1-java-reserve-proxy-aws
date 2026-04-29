@@ -110,43 +110,36 @@ This project implements a secure AWS architecture for a Java-based student regis
 ## Screenshots
 
 ### 1. EC2 Instance
-**EC2_Instance.png**
 ![1. EC2 Instance](./EC2_Instance.png)
 
 ---
 
 ### 2. Registration Page
-**Registration_Page.png**
 ![2. Registration Page](./Registration_Page.png)
 
 ---
 
 ### 3. Student List
-**Student_List.png**
 ![3. Student List](./Student_List.png)
 
 ---
 
 ### 4. RDS Database
-**RDS_Database.png**
 ![4. RDS Database](./RDS_Database.png)
 
 ---
 
 ### 5. MySQL Database Table
-**MySQL_Database_Table.png**
 ![5. MySQL Database Table](./MySQL_Database_Table.png)
 
 ---
 
 ### 6. Nginx Config
-**Nginx_Config.png**
 ![6. Nginx Config](./Nginx_Config.png)
 
 ---
 
 ### 7. Tomcat Installed Successfully
-**Tomcat_Installed_Successfully.png**
 ![7. Tomcat Installed Successfully](./Tomcat_Installed_Successfully.png)
 
 ---
