@@ -104,3 +104,17 @@ server {
 ## Conclusion
 
 This project implements a secure AWS architecture for a Java-based student registration application. A reverse proxy manages and secures incoming traffic while preventing direct access to the application server. The use of Apache Tomcat, Nginx, and Amazon RDS demonstrates a production-grade, scalable deployment pattern on AWS.
+
+---
+
+## Screenshots
+
+![EC2 Instance](./EC2_Instance.png)
+![Registration Page](./Registration_Page.png)
+![Student List](./Student_List.png)
+![RDS Database](./RDS_Database.png)
+![MySQL Database Table](./MySQL_Database_Table.png)
+![Nginx Config](./Nginx_Config.png)
+![Tomcat Installed Successfully](./Tomcat_Installed_Successfully.png)
+
+---
